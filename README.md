@@ -1,4 +1,4 @@
-📚 Analysis of Online Bookstore using SQL
+# 📚 Analysis of Online Bookstore using SQL
 
 This project focuses on analyzing the operations and performance of an online bookstore using SQL. The goal is to extract valuable business insights from raw data, such as sales trends, customer behavior, book popularity, revenue growth, and order patterns.By leveraging SQL queries, we perform data cleaning, transformation, and analysis to answer key business questions and support data-driven decision-making. The tool used is MYSQL for extraction of data.
 
